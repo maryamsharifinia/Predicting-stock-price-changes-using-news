@@ -1,4 +1,4 @@
-# README for GitHub Repository: *Iranian Stock Market Fluctuations Analysis*
+# *Iranian Stock Market Fluctuations Analysis*
 
 ## 📊 **Iranian Stock Market Fluctuations: From Social News to Forecasting Models**
 
